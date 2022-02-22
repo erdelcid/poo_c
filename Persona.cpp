@@ -1,3 +1,4 @@
+//ya tiene set y get
 #include <iostream>
 using namespace std;
 
