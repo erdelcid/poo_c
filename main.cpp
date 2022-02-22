@@ -4,9 +4,11 @@
 using namespace std;
 
 main(){
+	//Definición de variables
 	string nit, nombres, apellidos, direccion;
 	int telefono;
 	
+	//Ingreso de datos
 	cout<<"Ingrese NIT: ";
 	cin>>nit;
 	cout<<"Ingrese NOMBRES: ";
